@@ -129,7 +129,7 @@ a {
   color: #404bbf;
 }
 
-/* Section 1 Effective Solutions 1 */
+/* Section 1 Effective Solutions */
 
 .solutions {
   margin: 0 auto;
@@ -206,7 +206,11 @@ a {
 }
 
 .benefits-list-item {
-  width: calc((100%-72) / 4);
+  width: calc((100% - 72px) / 4);
+}
+
+.benefits-item-icon {
+  margin-bottom: 8px;
 }
 
 .benefits-h-three {
