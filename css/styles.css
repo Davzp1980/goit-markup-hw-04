@@ -369,6 +369,8 @@ a {
   height: 100%;
   top: 0;
   color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   background-color: #4d5ae5;
   padding: 40px 32px;
   transform: translateY(100%);
